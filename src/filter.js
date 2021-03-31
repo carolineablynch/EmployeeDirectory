@@ -1,4 +1,3 @@
-
 import { InputGroup, FormControl, Row, Col } from "react-bootstrap";
 
 export default function Filter({ employees, onChange }) {
