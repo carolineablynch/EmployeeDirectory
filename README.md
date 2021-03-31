@@ -4,7 +4,7 @@
 
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
-![App Screenshot](/public/app.png) "App Screenshot")
+![App Screenshot](/public/app.png)
 
 ## Credits 
 
